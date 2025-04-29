@@ -17,11 +17,8 @@ A React application that fetches data from the PokeAPI and allows users to searc
 
 ## Live Demo
 
-[View deployed application](https://your-deployed-app-url.vercel.app)
+[View deployed application]([https://your-deployed-app-url.vercel.app](https://pokemon-assignment-seven-ivory.vercel.app/))
 
-## Screenshot
-
-![App Screenshot](./screenshot.png)
 
 ## Technologies Used
 

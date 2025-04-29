@@ -89,11 +89,7 @@ Contributions are welcome! Please follow these steps:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - youremail@example.com
-
-Project Link: [https://github.com/your-username/pokemon-data-explorer](https://github.com/your-username/pokemon-data-explorer)
 ```
 
 ### How to use this README:

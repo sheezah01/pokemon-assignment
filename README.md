@@ -1,7 +1,5 @@
 # pokemon-assignment
-Here's a comprehensive `README.md` for your Pokémon Data Explorer project:
 
-```markdown
 # Pokémon Data Explorer
 
 ![Pokémon Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg)
